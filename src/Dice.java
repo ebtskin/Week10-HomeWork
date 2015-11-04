@@ -24,3 +24,4 @@ public int GetANumber()
 	
 }
 
+// Do you have a Static method?
